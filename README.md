@@ -1,7 +1,8 @@
-# giuliano-theme
+# Wordpress Docker Ecosystem
+
 Docker Compose
 ==============
-![Docker Compose](logo.png?raw=true "Docker Compose Logo")
+![Docker Compose](Moby-logo.png?raw=true "Docker Compose Logo")
 
 Compose is a tool for defining and running multi-container Docker applications.
 With Compose, you use a Compose file to configure your application's services.
